@@ -1,6 +1,6 @@
 Hi There! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojunio99/)](https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojunio99/)](https://www.linkedin.com/in/ojunio99/)
 [![Gmail Badge](https://img.shields.io/badge/-vjpp29@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vjpp29@gmail.com)](mailto:vjpp29@gmail.com)
 
 <img align="right" alt="Code Boy image" src="./codeboy.png"  width="300px"/>
