@@ -26,6 +26,6 @@ Hi There! 👋
 <p></p>
  <div align="left">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojunio99&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+![ojunio99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojunio99&theme=vue&show_icons=true&hide_border=false&layout=compact)
   
  </div>
