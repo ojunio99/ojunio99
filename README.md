@@ -8,24 +8,26 @@ Hi There! 👋
 
 
 ## My name is Vitor Junio
-(Java | Python | React JS | PHP | Javascript | HTML | CSS | C# ) 🚀
 - 👩‍💻 Software Enginner 
 - 🎓 Computer Science Student 
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
+  
+ (Python | React JS | PHP | JavaScript | HTML | HTML | CSS | C# ) 🚀
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <p></p>
  <div align="left">
   
-![ojunio99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojunio99&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+![ojunio99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojunio99&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![ojunio99's Stats](https://github-readme-stats.vercel.app/api?username=ojunio99&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![ojunio99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojunio99&theme=highcontrast&hide_border=false)
   
  </div>
