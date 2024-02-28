@@ -26,6 +26,6 @@ Hi There! 👋
 <p></p>
  <div align="left">
   
-![ojunio99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojunio99&theme=vue&show_icons=true&hide_border=false&layout=compact)
+![ojunio99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ojunio99&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
   
  </div>
