@@ -13,7 +13,7 @@ Hi There! 👋
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
   
- (Python | React JS | PHP | JavaScript | HTML | HTML | CSS | C# ) 🚀
+ (Python | React JS | PHP | JavaScript | HTML | Next.JS | CSS | C# ) 🚀
  <div style="display: inline_block"><br>
   <img align="center" alt="PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
